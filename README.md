@@ -1,6 +1,6 @@
 # Soloist
 
-Soloist，中文名孤帆RPA，是一款基于AI的自媒体辅助工具，支持一键采集、内容洗稿和数据分发
+Soloist，中文名孤帆RPA，是一款基于AI的自媒体创作辅助工具，支持一键采集、内容洗稿和多平台数据分发
 
 <img width="921" alt="image" src="https://github.com/LinkedSea/Soloist/assets/16484499/741afd04-8932-41e2-9e35-ed7b37da2447">
 
@@ -10,6 +10,10 @@ Soloist，中文名孤帆RPA，是一款基于AI的自媒体辅助工具，支�
 * 一键洗稿（文本、图片，视频） 
 * 自动化多平台内容分发（同步到抖音、小红书、公众号、视频号、快手、bilibili、youtube、知乎等）
 * 暴力起号（含直播），数据分析
+
+## 功能介绍
+
+<img width="921" alt="image" src="https://github.com/LinkedSea/Soloist/assets/16484499/2b858482-68be-45e6-bca9-12f3c35a7847">
 
 ## 项目进度（V0.1）
 
